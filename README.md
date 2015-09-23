@@ -9,5 +9,5 @@ Very simple, to-top integration on your site. To make it work, simply include th
 
 In stylesheets and scripts accordingly.
 
-Copyright (c) 2015 David Yang <daworld.ny@gmail.com>
+Made by No Global State Lab.
 No license. Do whatever you want
